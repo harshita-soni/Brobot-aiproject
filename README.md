@@ -15,3 +15,7 @@ During the many lockdowns we faced in Australia, most of the mental health scree
 The idea behind this project is **to develop technology capable of building trusted relationships and conversations** with people. This can be achieved by deploying a bot service that can help ease the initial screening process for people who are seeking mental health related aid. 
 
 Sometimes all we need is to talk to someone or have someone listen to us. Some of our most vulnerable moments happen at 2 am, when there’s no one around. BroBot is designed to be there for you, to have a tiny conversation, to vent out your feelings and to direct you to the right professionals if required.
+
+## Approach
+
+I believe that the above problem can be effectively solved using Artificial Intelligence. [Recent research articles](https://pursuit.unimelb.edu.au/articles/hey-siri-how-s-my-mental-health) have concluded that conversational systems have the potential to play a key role in future mental healthcare and also to help cut down global e-waste.
