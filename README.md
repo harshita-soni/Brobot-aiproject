@@ -32,8 +32,6 @@ Once the initial knowledge base was ready, a few trial runs were done. Next, it 
 ### Production Phase
 I sent the link to the chatbot to a few friends to seek feedback. This brought up several errors and bugs where the bot was giving answers that may be conceived as inappropriate. More questions, answers and alternative phrasing were then added to the knowledge base to incorporate whatever issues were brought to light.
 
-### Future Scope
-This project has vast possibilities of scaling and expansion ahead. The existent chatbot app can be linked with the dataset of all mental health service providers in the specified area and people can be linked to the one of their choice. More options can be added to do a proper screening (as prescribed by a professional) for users who wish to get a report and send it to their mental health professional. It can potentially fill the gaps along the entire mental healthcare journey, from symptom monitoring to episode management.
 
 ## :rocket: Implementation 
 The dataset was scraped from FAQ pages of numerous organisations, such as:
@@ -51,3 +49,6 @@ Upon receiving feedback from people who tried striking conversation with the ini
 A few of the bugs reported are as follows:
 
 <img src="https://github.com/harshita-soni/MSA-aiproject/blob/main/images/My%20Post-2.png" alt="Screenshots" width="500" height="500">
+
+## :rocket: How to run the code
+The repository contains one HTML file [bot.html](https://github.com/harshita-soni/MSA-aiproject/blob/main/bot.html) and one Jupyter Notebook [bot.ipynb](https://github.com/harshita-soni/MSA-aiproject/blob/main/bot.ipynb) which can be downloaded and run to produce the web app for Brobot. The HTML file is the easier of the two options as it can be run without any specific software requirements.
