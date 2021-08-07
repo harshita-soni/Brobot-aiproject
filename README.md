@@ -2,6 +2,8 @@
 
 ## Problem Specification
 
+Globally, the pandemic has disrupted healthcare chains that try to provide health services and has highlighted the shortage of medical staff worldwide. And in mental healthcare, which has taken a severe hit during the pandemic, it’s underscored that there are [not enough mental health professionals to meet demand](https://www.who.int/news/item/05-10-2020-covid-19-disrupting-mental-health-services-in-most-countries-who-survey).
+
 > “The sudden loss of employment and social interaction, and the added stressors of moving to remote work or schooling, and more recently, impacts of sudden, localised ‘lockdowns’ to prevent further outbreaks have **severely impacted** the mental health of many Australians.”
 
 > “...while many people may not experience any long-term concerns, COVID-19 has the potential to contribute to or exacerbate long-term mental illness including anxiety, depression, PTSD, and substance misuse.”
@@ -18,4 +20,4 @@ Sometimes all we need is to talk to someone or have someone listen to us. Some o
 
 ## Approach
 
-I believe that the above problem can be effectively solved using Artificial Intelligence. [Recent research articles](https://pursuit.unimelb.edu.au/articles/hey-siri-how-s-my-mental-health) have concluded that conversational systems have the potential to play a key role in future mental healthcare and also to help cut down global e-waste.
+I believe that the above problem can be effectively solved using Artificial Intelligence. [Recent research articles](https://pursuit.unimelb.edu.au/articles/hey-siri-how-s-my-mental-health) have concluded that conversational systems have the potential to play a key role in future mental healthcare and also to help cut down global e-waste. 
