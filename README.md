@@ -20,4 +20,5 @@ Sometimes all we need is to talk to someone or have someone listen to us. Some o
 
 ## Approach
 
-I believe that the above problem can be effectively solved using Artificial Intelligence. [Recent research articles](https://pursuit.unimelb.edu.au/articles/hey-siri-how-s-my-mental-health) have concluded that conversational systems have the potential to play a key role in future mental healthcare and also to help cut down global e-waste. 
+### Why AI?
+[Recent research articles](https://pursuit.unimelb.edu.au/articles/hey-siri-how-s-my-mental-health) have concluded that conversational systems have the potential to play a key role in future mental healthcare and also to help cut down global e-waste. Azure Bot Service incorporates artificial intelligence, natural language processing and a natural conversation experience seamlessly and is hence is ideal for this project.
