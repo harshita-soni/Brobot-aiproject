@@ -8,7 +8,7 @@
       
 -[Australian Institute of Health and Welfare](https://www.aihw.gov.au/reports/mental-health-services/mental-health-services-in-australia/report-contents/mental-health-impact-of-covid-19)
 
-During the many lockdowns we faced in Australia, most of the mental health screening services had to be offered via telephone or video consultations. And with the number of affected people increasing, there was a clear lack of resources we could access. There is still heavy uncertainty as to when and how things would return to normal. Hence, there is **a need for a new generation of mental healthcare tools that are as dynamic as the people they serve.**
+During the many lockdowns we faced in Australia, most of the mental health screening services had to be offered via telephone or video consultations. And with the number of affected people increasing, there was a clear lack of resources we could access. There is still heavy uncertainty as to when and how things would return to normal. Hence, there is **a need for a new generation of mental healthcare tools that are as dynamic as the people they serve** in the post-COVID world.
 
 ## Idea
 
