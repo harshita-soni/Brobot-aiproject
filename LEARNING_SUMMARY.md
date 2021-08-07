@@ -1,1 +1,9 @@
+# :rocket: Learning Journey 
 
+The journey from attending the second bootcamp to completing MS Learning paths to actually implementing an AI solution has been rather exciting for me. I have always been fascinated by how AI can be implemented to solve the most complex of problems with simplicity. 
+
+After attending the bootcamp and listening to the speakers I was pumped up to start with the Learning Paths. My key takeaway from the learning paths has been that when we're building AI solutions, considering the technology is only one half of the thinking process. There is so much more that goes into building a sustainable solution, including but not restricted to Fairness, Reliability and safety, Privacy and security, Inclusiveness, Transparency and Accountability. It provided a different perspective to view problems. 
+
+Coming from a technical background, I was initally determined to follow the coding approach. However, once I became aware of the many powerful no/low code opportunities available with Azure, it got me thinking. AI is a multi-disciplinary domain, where we always work in teams, and teams may comprise of technical as well as non-technical domain experts. Thus, it makes more sense to follow an approach that is easily understandable by anyone regardless of their tech expertise, which is why I switched to building my solution through the low-code approach.
+
+It is a widely known fact that there is a huge difference between learning the theory and actually implementing it in practice. I learned and figured out many things on-the-go as I progressed from the data phase through to the production phase and back to the data phase. It was a great learning experience and it provided me immense satisfaction because I contributed towards a cause which I'm very passionate about. It's not a lot, but it is definitely a small step towards something potentially impactful.
