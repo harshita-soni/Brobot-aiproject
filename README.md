@@ -21,4 +21,13 @@ Sometimes all we need is to talk to someone or have someone listen to us. Some o
 ## Approach
 
 ### Why AI?
-[Recent research articles](https://pursuit.unimelb.edu.au/articles/hey-siri-how-s-my-mental-health) have concluded that conversational systems have the potential to play a key role in future mental healthcare and also to help cut down global e-waste. Azure Bot Service incorporates artificial intelligence, natural language processing and a natural conversation experience seamlessly and is hence is ideal for this project.
+[Recent research articles](https://pursuit.unimelb.edu.au/articles/hey-siri-how-s-my-mental-health) have concluded that conversational systems have the potential to play a key role in future mental healthcare and also to help cut down global e-waste. Azure Bot Service incorporates artificial intelligence, natural language processing and a natural conversation experience seamlessly and is hence ideal for this project.
+
+### Data Phase
+To create a knowledge base for the bot, data was collected from FAQ pages of various organisations that provide mental health services. Upon creation of the knowledge phase, these Q&A were edited and additional phrases were added to each question to ensure maximum efficiency.
+
+### Model Phase
+Once the initial knowledge base was ready, a few trial runs were done. Next, it was linked to a chat bot using the Azure Bot Service, and the chit-chat personality was set to be caring & empathetic. The bot has been deployed to be accessed through web, but can further be expanded to other channels such as Microsoft Teams.
+
+### Production Phase
+I sent the link to the chatbot to a few friends to seek feedback. This brought up several errors and bugs where the bot was giving answers that may be conceived as inappropriate. More questions, answers and alternative phrasing were then added to the knowledge base to incorporate whatever issues were brought to light.
