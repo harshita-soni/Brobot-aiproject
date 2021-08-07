@@ -34,3 +34,15 @@ I sent the link to the chatbot to a few friends to seek feedback. This brought u
 
 ### Future Scope
 This project has vast possibilities of scaling and expansion ahead. The existent chatbot app can be linked with the dataset of all mental health service providers in the specified area and people can be linked to the one of their choice. More options can be added to do a proper screening (as prescribed by a professional) for users who wish to get a report and send it to their mental health professional. It can potentially fill the gaps along the entire mental healthcare journey, from symptom monitoring to episode management.
+
+## :rocket: Implementation 
+The dataset was scraped from FAQ pages of numerous organisations, such as:
+-	https://www.wellnessinmind.org/frequently-asked-questions/
+-	https://www.heretohelp.bc.ca/questions-and-answers
+-	https://mhaustralia.org/resources/frequently-asked-questions
+-	https://magazine.vitality.co.uk/10-biggest-mental-health-questions/
+-	https://www.webmd.com/mental-health/qa/default.htm
+-	http://www.mhbsf.org/faq/
+
+Care was taken to ensure the data only comes from sources that are certified or have been working in the field for a long time. This generated a knowledge base with about 120 different questions. Few of the questions specific to the organisation itself were removed during the pre-processing phase. This was followed by adding alternative phrasing for each question.
+Upon receiving feedback from people who tried striking conversation with the initial version of the bot, the questions were further fine-tuned. More questions were added on topics relating to suicide prevention, bereavement, grief management and LGBTQ+ representation, bringing it to a total of 133 q&a pairs.
