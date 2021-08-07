@@ -47,3 +47,7 @@ The dataset was scraped from FAQ pages of numerous organisations, such as:
 Care was taken to ensure the data only comes from sources that are certified or have been working in the field for a long time. This generated a knowledge base with about 120 different questions. Few of the questions specific to the organisation itself were removed during the pre-processing phase. This was followed by adding alternative phrasing for each question.
 
 Upon receiving feedback from people who tried striking conversation with the initial version of the bot, the questions were further fine-tuned. More questions were added on topics relating to suicide prevention, bereavement, grief management and LGBTQ+ representation, bringing it to a total of 133 q&a pairs.
+
+A few of the bugs reported are as follows:
+
+<img src="https://github.com/harshita-soni/MSA-aiproject/blob/main/images/My%20Post-2.png" alt="Screenshots" width="500" height="500">
